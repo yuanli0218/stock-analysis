@@ -1,1 +1,3 @@
 # stock analysis VBA exercise
+
+now working on ...
